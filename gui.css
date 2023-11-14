@@ -3,3 +3,8 @@ body {
 }
 p {
   text-align: center;
+}
+
+em strong {
+   color:#ff4444;
+}
